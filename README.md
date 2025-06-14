@@ -1,0 +1,1 @@
+# coinank-heatmap-scraper
